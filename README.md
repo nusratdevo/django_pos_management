@@ -58,5 +58,5 @@ Version 1 completed and hosted
 ---
 
 <h2>Order Page</h2>
-<img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen7.png" height="400">
+<img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen8.png" height="400">
 ---
