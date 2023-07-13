@@ -50,7 +50,7 @@ Version 1 completed and hosted
 <h2>Product Page</h2>
 <img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen4.png" height="400">
 ---
-<img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen6.png" height="400">
+<img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen8.png" height="400">
 ---
 
 <h2>Pos Add Page</h2>
@@ -58,5 +58,5 @@ Version 1 completed and hosted
 ---
 
 <h2>Order Page</h2>
-<img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen8.png" height="400">
+<img src="https://github.com/nusratdevo/django_pos_management/blob/main/screens/screen6.png" height="400">
 ---
